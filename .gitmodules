@@ -1,0 +1,3 @@
+[submodule "garbage-detection"]
+	path = garbage-detection
+	url = https://github.com/kumarsubedi93/garbage-detection.git
